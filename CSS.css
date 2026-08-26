@@ -1,0 +1,236 @@
+/* 1. Global Reset & Modern Variables */
+:root {
+    --primary-color: #2563eb;
+    --primary-gradient: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+    --bg-gradient: linear-gradient(135deg, #eef2f6 0%, #e2e8f0 100%);
+    --text-main: #0f172a;
+    --text-muted: #64748b;
+    --border-color: #cbd5e1;
+    
+    /* Functional Colors */
+    --success-color: #10b981;
+    --success-gradient: linear-gradient(90deg, #34d399 0%, #059669 100%);
+    --danger-color: #ef4444;
+    --danger-gradient: linear-gradient(90deg, #f87171 0%, #dc2626 100%);
+    
+    --radius-lg: 16px;
+    --radius-md: 10px;
+    --shadow-card: 0 10px 25px -5px rgba(15, 23, 42, 0.08), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
+}
+
+* {
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+body { 
+    background: var(--bg-gradient); 
+    color: var(--text-main); 
+    padding: 40px 20px; 
+    min-height: 100vh;
+}
+
+.container { 
+    max-width: 920px; 
+    margin: 0 auto; 
+    background: rgba(255, 255, 255, 0.95); 
+    backdrop-filter: blur(10px);
+    padding: 35px; 
+    border-radius: var(--radius-lg); 
+    box-shadow: var(--shadow-card); 
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+h1 { 
+    text-align: center; 
+    background: linear-gradient(90deg, #1e293b 0%, #2563eb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 25px; 
+    font-size: 1.75rem;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+}
+
+/* 2. Form & Controls */
+.grid {   
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+}
+
+.form-group { 
+    display: flex; 
+    flex-direction: column; 
+    gap: 8px; 
+}
+
+label { 
+    font-weight: 700; 
+    color: #334155; 
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+textarea { 
+    width: 100%; 
+    height: 140px; 
+    padding: 16px; 
+    border: 1.5px solid var(--border-color); 
+    border-radius: var(--radius-md); 
+    resize: vertical; 
+    font-size: 0.95rem;
+    color: #1e293b;
+    background-color: #f8fafc;
+    outline: none;
+    transition: all 0.25s ease;
+}
+
+textarea:focus {
+    background-color: #ffffff;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.15);
+}
+
+button { 
+    padding: 16px; 
+    background: var(--primary-gradient); 
+    color: white; 
+    border: none; 
+    border-radius: var(--radius-md); 
+    font-size: 1rem; 
+    font-weight: 700; 
+    cursor: pointer; 
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+button:hover { 
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(37, 99, 235, 0.4);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+/* 3. Results Section & Grid Layout */
+.results { 
+    margin-top: 35px; 
+    animation: fadeIn 0.5s ease-out forwards;
+}
+
+.grid-results {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .grid-results {
+        grid-template-columns: 1fr;
+    }
+}
+
+.card { 
+    padding: 22px; 
+    border-radius: var(--radius-md); 
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.03);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px -3px rgba(0,0,0,0.06);
+}
+
+.context-card { 
+    background: #f8fafc; 
+    border-left: 5px solid #0284c7; 
+}
+
+.context-card p {
+    color: #334155;
+    line-height: 1.6;
+}
+
+/* 4. Status Badges */
+.status-badge { 
+    display: inline-flex; 
+    align-items: center;
+    gap: 8px;
+    padding: 8px 18px; 
+    border-radius: 999px; 
+    font-weight: 700; 
+    font-size: 0.9rem;
+    margin-bottom: 20px; 
+    letter-spacing: 0.2px;
+}
+
+.status-hallucinated { 
+    background: #ffe4e6; 
+    color: #be123c; 
+    border: 1px solid #fecdd3;
+}
+
+.status-correct { 
+    background: #d1fae5; 
+    color: #047857; 
+    border: 1px solid #a7f3d0;
+}
+
+/* 5. Progress Bars & Metrics */
+.progress-bar { 
+    background: #e2e8f0; 
+    height: 12px; 
+    border-radius: 999px; 
+    overflow: hidden; 
+    margin-top: 8px; 
+    padding: 2px;
+}
+
+.progress-fill { 
+    height: 100%; 
+    border-radius: 999px;
+    transition: width 0.8s cubic-bezier(0.34, 1.56, 0.64, 1); 
+}
+
+.fill-correct {
+    background: var(--success-gradient);
+}
+
+.fill-hallucinated {
+    background: var(--danger-gradient);
+}
+
+/* 6. Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animation xoay icon khi đang loading */
+.fa-spin {
+    animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
