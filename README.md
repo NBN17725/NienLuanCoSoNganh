@@ -1,5 +1,6 @@
 Hướng dẫn Cài đặt và Chạy Dự án
 Để mô hình hoạt động tối ưu và đạt trải nghiệm tốt nhất, vui lòng thực hiện theo các bước hướng dẫn sau:
+
 📋 Yêu cầu hệ thống
 Python: Phiên bản 3.10 trở lên.
 
