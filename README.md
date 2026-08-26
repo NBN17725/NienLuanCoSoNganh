@@ -33,3 +33,5 @@ Mở Terminal trong VS Code (Ctrl + ~ hoặc Cmd + ~) và chạy lệnh sau: pyt
 Sau khi hệ thống khởi chạy thành công, terminal sẽ xuất hiện đường dẫn: [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 Copy đường dẫn [http://127.0.0.1:8000](http://127.0.0.1:8000) và dán vào trình duyệt web để bắt đầu trải nghiệm.
+
+Hoặc người dùng có thể trãi nghiệm cách đơn giản hơn bằng cách chạy file chayTrenTerminal.py
