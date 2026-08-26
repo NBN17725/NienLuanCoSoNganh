@@ -1,0 +1,703 @@
+[
+  {
+    "ID": 1,
+    "context": "Gà công nghiệp hay còn gọi là gà thịt công nghiệp hay gà nuôi theo kiểu công nghiệp là gà được chăn nuôi tập trung theo quy trình công nghiệp, thông thường chúng là dạng gà thịt và được nuôi, chăm sóc, vỗ béo để chuẩn bị cho tiêu thụ thịt.",
+    "answer": "Gò công nghiệp còn được gọi là gà nuôi theo kiểu công nghiệp",
+    "doc_id": "NN_0064",
+    "label": "correct"
+  },
+  {
+    "ID": 2,
+    "context": "Chùm ngây hay ba đậu dại (danh pháp hai phần: Moringa oleifera) là loài thực vật thân gỗ phổ biến nhất trong Chi Chùm ngây (danh pháp khoa học: Moringa) thuộc họ Chùm ngây (Moringaceae).",
+    "answer": "Tên khoa học của cây chùm mây là Harry potter",
+    "doc_id": "NN_0090",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 3,
+    "context": "Hiện nay, đàn bò lai Zebu chiếm khoảng 40 – 45% tổng đàn và được phân bố ở hầu khắp các tỉnh, thành, đặc biệt là ở Hà Nội, Vĩnh Phúc, Nam Định, Ninh Bình, Hải Dương, Hưng Yên, Tp. Hồ Chí Minh, An Giang, Long An.",
+    "answer": "Đàn bò lai Zebu chiếm khoảng 40 – 45% tổng đàn và được phân bố ở hầu khắp các tỉnh.",
+    "doc_id": "NN_0117",
+    "label": "correct"
+  },
+  {
+    "ID": 4,
+    "context": "Trong những năm đầu thập niên 1980, tại An Giang có trên 600 bè cá với sản lượng hằng năm trên 7.000 tấn cá.",
+    "answer": "Tại An Giang có trên 600 bè cá với sản lượng hằng năm trên 7.000 tấn cá.",
+    "doc_id": "NN_0073",
+    "label": "correct"
+  },
+  {
+    "ID": 5,
+    "context": "Cá hường hay còn gọi là cá mùi (danh pháp hai phần: Helostoma temminckii) là một loài cá nước ngọt thuộc họ Cá hường (Helostomatidae), theo truyền thống xếp trong bộ Cá vược (Perciformes), nhưng gần đây được xếp trong bộ Anabantiformes.",
+    "answer": "Cá hường còn được gọi là cái mùi.",
+    "doc_id": "NN_0084",
+    "label": "correct"
+  },
+  {
+    "ID": 6,
+    "context": "Cà phê vối (danh pháp hai phần: Coffea canephora hoặc Coffea robusta) là cây quan trọng thứ hai trong các loài cà phê.",
+    "answer": "cà phê vối có tên khoa học là Coffea barica.",
+    "doc_id": "NN_0100",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 7,
+    "context": "là loại sâm quý được tìm thấy tại miền Trung Việt Nam, mọc tập trung ở các xã miền núi Ngọc Linh thuộc xã Đăk Sao, Đăk Tô, Đăk Tờ Kan, Kon Đào, Măng Ri, Ngọk Tụ, Tu Mơ Rông của tỉnh Quảng Ngãi, xã Nam Trà My, Trà Leng, Trà Linh, Trà Tập, Trà Vân, thành phố Đà Nẵng. Ngoài sâm Ngọc Linh còn phân bố tại núi Ngọc Lum Heo thuộc xã Phước Thành và còn có thể có ở đỉnh Ngọc Am của tỉnh Quảng Nam.",
+    "answer": "Sâm ngọc linh được tìm thấy ở miền nam Việt Nam.",
+    "doc_id": "NN_0021",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 8,
+    "context": "Chè Shan Tuyết là loại chè đặc sản Việt Nam có búp to màu trắng xám.",
+    "answer": "Chè Shan Tuyết là loại chè đặc sản Việt Nam có búp to màu trắng xám.",
+    "doc_id": "NN_0019",
+    "label": "correct"
+  },
+  {
+    "ID": 9,
+    "context": "Chuối xiêm (còn gọi là chuối sứ) là một giống chuối trồng nông nghiệp có nguồn gốc từ Thái Lan.",
+    "answer": "Chuối siêm có nguồn gốc từ Thái Lan.",
+    "doc_id": "NN_0012",
+    "label": "correct"
+  },
+  {
+    "ID": 10,
+    "context": "Diếp cá hay giấp cá, dấp cá, lá giấp, rau giấp, rau vẹn, ngư tinh thảo, tập thái (danh pháp khoa học: Houttuynia cordata) là một loài thực vật thuộc họ Saururaceae.",
+    "answer": "Rau diếp cá là loại thực vật thuộc họ Saururaceae.",
+    "doc_id": "NN_0137",
+    "label": "correct"
+  },
+  {
+    "ID": 11,
+    "context": " FAO ghi nhận một biến thể tích hợp \"lúa–vịt–tôm\" tại Bến Tre trong bối cảnh các mô hình canh tác kết hợp theo hướng thích ứng biến đổi khí hậu ở Đồng bằng sông Cửu Long.",
+    "answer": "Mô hình lúa–vịt–tôm được FAO ghi nhận triển khai đầu tiên tại tỉnh Lào Cai.",
+    "doc_id": "NN_0116",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 12,
+    "context": "Các giống gà này có đặc điểm giống nhau là lông trắng, mào đỏ, siêu thịt, thời gian nuôi chỉ từ 35-50 ngày là đạt trọng lượng tối đa.",
+    "answer": "Gà lông trắng có đặc điểm lông xám, mào đỏ và thuộc nhóm gà ít thịt.",
+    "doc_id": "NN_0142",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 13,
+    "context": "Hồ tiêu (còn gọi là tiêu ăn, cổ nguyệt, hắc cổ nguyệt, bạch cổ nguyệt).",
+    "answer": "Hắc cổ nguyệt được gọi với tên thông thường là hồ tiêu.",
+    "doc_id": "NN_0016",
+    "label": "correct"
+  },
+  {
+    "ID": 14,
+    "context": "Xoài cát Hòa Lộc là giống xoài đặc sản nổi tiếng của vùng đất Định Tường, một trong những loại trái cây chủ lực của tỉnh Đồng Tháp (tỉnh Tiền Giang trước đây).",
+    "answer": "Xoài cát hòa lộc là đặc sản nổi tiếng của vùng đất Bến Tre.",
+    "doc_id": "NN_0039",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 15,
+    "context": "Chè tuyết Suối Giàng là loại chè Shan Tuyết nổi tiếng được tiếng được canh tác tự nhiên ở xã Văn Chấn, tỉnh Lào Cai.",
+    "answer": "Chè tuyết Suối Giàng được canh tác tự nhiên ở xã Thạnh Xuân, Thành Phố Cần Thơ ",
+    "doc_id": "NN_0020",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 16,
+    "context": "Tai chua hay còn gọi bứa cọng (danh pháp hai phần: Garcinia cowa) là một loài cây mộc thuộc Họ Bứa, cận chủng với măng cụt.",
+    "answer": "Tên khoa học của cây tai chua là Garcinia cowa.",
+    "doc_id": "NN_0044",
+    "label": "correct"
+  },
+  {
+    "ID": 17,
+    "context": "Gà Tàu vàng hay gà Ta vàng là một giống gà bản địa của Việt Nam.",
+    "answer": "Gà Tàu vàng là một giống gà bản địa của Việt Nam.",
+    "doc_id": "NN_0122",
+    "label": "correct"
+  },
+  {
+    "ID": 18,
+    "context": "Các tỉnh còn trồng nhiều giống này: Đồng Tháp, Long An, TP Hồ Chí Minh, An Giang và Sóc Trăng. Đây là một sự gìn giữ rất quý báu của nhân dân Việt Nam.\n\nHiện nay, phân loại trên các thông số như độ dài hạt, mùi thơm,... Lúa Nàng Hương có một số giống màu sau:\n\nCác giống này chủ yếu tập trung ở Đồng bằng sông Cửu Long.",
+    "answer": "Các giống lúa Nàng Hương chủ yếu tập trung ở Đồng bằng sông Hồng.",
+    "doc_id": "NN_0091",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 19,
+    "context": "Tôm mũ ni (danh pháp khoa học: Scyllaridae) là một họ của bộ động vật giáp xác mười chân sinh sống ở các vùng biển và đại dương ấm.",
+    "answer": "Tôm mũ ni thuộc bộ động vật giáp xác tám chân.",
+    "doc_id": "NN_0067",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 20,
+    "context": "Rừng tràm Trà Sư là một khu rừng và khu du lịch sinh thái nằm trên địa bàn ấp Văn Trà, xã An Cư, tỉnh An Giang. Đây là rừng ngập nước tiêu biểu cho vùng Tây sông Hậu, là nơi sinh sống của nhiều loài động vật và thực vật thuộc hệ thống rừng đặc dụng Việt Nam.",
+    "answer": "Rừng tràm Trà Sư là một khu rừng ôn đới tiêu biểu cho vùng Tây sông Hậu.",
+    "doc_id": "NN_0079",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 21,
+    "context": "Nó là một loài cây sớm rụng lá, thân gỗ nhỏ, có thể cao tới 5–10 m.",
+    "answer": "Cây đào có thể cao tới 5–10 m.",
+    "doc_id": "NN_0105",
+    "label": "correct"
+  },
+  {
+    "ID": 22,
+    "context": "Húng quế hay rau quế (Ocimum basilicum var. thyrsiflora), là một giống húng tây bản địa của Đông Nam Á, đã được gieo trồng chọn lọc để lựa được những tính trạng đặc trưng.",
+    "answer": "Húng quế có tên khoa học là Neu-tron.",
+    "doc_id": "NN_0097",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 23,
+    "context": "Hồng xiêm Thanh Hà là một giống hồng xiêm được trồng phổ biến ở vùng Đồng Bằng sông Hồng và một số tỉnh lân cận, trồng nhiều nhất ở xã Thanh Hà, thành phố Hải Phòng.",
+    "answer": "Hồng xiêm Thanh Hà được trồng phổ biến ở vùng Đồng bằng sông Cửu Long và một số tỉnh lân cận.",
+    "doc_id": "NN_0087",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 24,
+    "context": "Gà kiến hay gà Bình Định là một giống gà nội địa của Việt Nam được nuôi ở một số tỉnh miền Trung Việt Nam.",
+    "answer": "Gà kiến còn được gọi là gà Đà Lạt.",
+    "doc_id": "NN_0119",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 25,
+    "context": "Họ Cá tra (danh pháp khoa học: Pangasiidae) là một họ cá nước ngọt đã biết thuộc bộ Cá da trơn (Siluriformes) chứa khoảng 28 loài.",
+    "answer": "Họ Cá tra có tên khoa học là Panadol",
+    "doc_id": "NN_0071",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 26,
+    "context": "Lợn đen Lũng Pù là giống lợn bản địa ở Mèo Vạc, hiện được chăn nuôi tại 4 huyện trong tỉnh Hà Giang Tên của chúng được đặt dựa theo địa danh Lũng Pù. Giống lợn đen Lũng Pù được thuần hóa từ lâu đời rất phù hợp với điều kiện chăn nuôi của người dân vùng cao của tỉnh này.",
+    "answer": "Lợn đen Lũng Pù là giống lợn bản địa ở Mèo Vạc, tỉnh Cà Mau.",
+    "doc_id": "NN_0120",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 27,
+    "context": "Ớt là một loại quả của các cây thuộc chi Capsicum của họ Cà (Solanaceae). Ớt là một loại quả gia vị cũng như loại quả làm rau (ớt Đà Lạt) phổ biến trên thế giới.",
+    "answer": "Ớt thuộc chi Capsicum.",
+    "doc_id": "NN_0098",
+    "label": "correct"
+  },
+  {
+    "ID": 28,
+    "context": "Nếp cái hoa vàng, có khi còn gọi là nếp ả hay nếp hoa vàng, là giống lúa nếp truyền thống nổi tiếng tại các tỉnh đồng bằng và trung du Bắc Bộ, Việt Nam, có hạt gạo tròn, dẻo, thơm đặc biệt nên thường dùng đồ xôi, làm cốm, làm các loại bánh có sử dụng gạo nếp, làm tương hoặc ủ rượu.",
+    "answer": "Nếp cái hoa vàng thường được dùng để đồ xôi, làm cốm, làm bánh, làm tương hoặc ủ rượu.",
+    "doc_id": "NN_0134",
+    "label": "correct"
+  },
+  {
+    "ID": 29,
+    "context": "Quả chuối ra thành nải treo, mỗi tầng (gọi là nải) có tới 20 quả, và mỗi buồng có 3–20 nải. Các nải nhìn chung gọi là một buồng, nặng 30–50 kg. Một quả trung bình nặng 125 g, trong số đó vào khoảng 75% là nước và 25% là chất khô.",
+    "answer": "Một quả chuối trung bình nặng khoảng 125 g.",
+    "doc_id": "NN_0036",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 30,
+    "context": "Nhãn (danh pháp hai phần: Dimocarpus longan) (chữ Hán(𣘃𣟫): 龙眼/龍眼; âm Hán Việt: \"long nhãn\"; nghĩa là \"mắt rồng\" vì hạt có màu đen bóng) là loài cây cận nhiệt đới lâu năm thuộc họ Bồ hòn (Sapindaceae).",
+    "answer": "Nhãn có tên khoa học là Dimocarpus longan.",
+    "doc_id": "NN_0029",
+    "label": "correct"
+  },
+  {
+    "ID": 31,
+    "context": "Cá diêu hồng hay cá điêu hồng hay còn gọi là cá rô phi đỏ (danh pháp khoa học: Oreochromis sp.) là một loài cá nước ngọt thuộc họ Cá rô phi (Cichlidae).",
+    "answer": "Cá diêu hồng thuộc họ Cá chép.",
+    "doc_id": "NN_0074",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 32,
+    "context": "Đuông dừa, đuông chà là, mọt cọ đỏ, mọt cọ châu Á (Asian palm weevil), bọ Sago hay ấu trùng Sago (danh pháp khoa học: Rhynchophorus ferrugineus) là một loài côn trùng trong họ bọ vòi voi (Curculionidae) sinh sống ở các vùng nhiệt đới thuộc châu Á. Ấu trùng của loài bọ này sinh sống chủ yếu trong thân cây dừa. Chúng cũng thích cây cau, cây chà là (một cây có họ hàng với cau, trồng để lấy quả), cọ Sago và được người dân địa phương coi chúng là một món ăn ngon và bổ dưỡng.",
+    "answer": "Đuông dừa là một loài côn trùng thuộc họ bọ vòi voi (Curculionidae), có danh pháp khoa học là Rhynchophorus ferrugineus.",
+    "doc_id": "NN_0139",
+    "label": "correct"
+  },
+  {
+    "ID": 33,
+    "context": "Cà cuống (có khi còn được gọi là đà cuống 佗誑 hay long sắt 龍蝨, tên khoa học: Lethocerus indicus Lep. et Serv.) là một loại côn trùng thuộc họ Belostomatidae sống dưới nước, thuộc bộ Cánh nửa (Hemiptera).",
+    "answer": "Cà cuống là loài côn trùng thuộc bộ Chân đốt.",
+    "doc_id": "NN_0124",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 34,
+    "context": "Bò Phú Yên hay còn gọi là bò vàng Phú Yên, bò cóc là một giống bò vàng nội địa Việt Nam có nguồn gốc từ tỉnh Phú Yên.",
+    "answer": "Bò Phú Yên còn được gọi là bò vàng Phú Yên hoặc bò cóc.",
+    "doc_id": "NN_0052",
+    "label": "correct"
+  },
+  {
+    "ID": 35,
+    "context": "Bò tót (Bos gaurus) (tiếng Anh: Gaur) là một loài động vật có vú guốc chẵn thuộc họ Trâu bò.",
+    "answer": "Bò tót có tên khoa học là radius.",
+    "doc_id": "NN_0118",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 36,
+    "context": "Bò vàng Việt Nam thuộc nhóm bò thịt, được nuôi chủ yếu để lấy thịt và đồng thời được sử dụng để lấy sức kéo trong sản xuất nông nghiệp.",
+    "answer": "1,5 m.Bò vàng Việt Nam thuộc nhóm bò sữa, được sử dụng để lấy sữa.",
+    "doc_id": "NN_0050",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 37,
+    "context": "Quýt hồng là một giống quýt đặc sản được trồng chủ yếu tại tỉnh Đồng Tháp, Việt Nam, đặc biệt tập trung tại huyện Lai Vung.",
+    "answer": "Quýt hồng được trồng chủ yếu tại huyện Lai Vung, tỉnh Đồng Tháp.",
+    "doc_id": "NN_0132",
+    "label": "correct"
+  },
+  {
+    "ID": 38,
+    "context": "Rau má hay tích tuyết thảo hoặc lôi công thảo (danh pháp hai phần: Centella asiatica) là một loài cây một năm thân thảo trong phân họ Mackinlayoideae của họ Hoa tán (Apiaceae).",
+    "answer": "Rau má có tên khoa học là Centella asiatica.",
+    "doc_id": "NN_0011",
+    "label": "correct"
+  },
+  {
+    "ID": 39,
+    "context": "Khu dự trữ sinh quyển Cần Giờ còn gọi là Rừng Sác, là một quần thể gồm các loài động vật, thực vật rừng trên cạn và thủy sinh được hình thành trên vùng châu thổ rộng lớn của các cửa sông Đồng Nai, sông Sài Gòn và sông Vàm Cỏ.",
+    "answer": "Khu dự trữ sinh quyển Cần Giờ còn được gọi là Rừng Sác.",
+    "doc_id": "NN_0078",
+    "label": "correct"
+  },
+  {
+    "ID": 40,
+    "context": "Cá hú (danh pháp hai phần: Pangasius conchophilus Roberts & Vidthayanon, 1991) là một loài cá nước ngọt thuộc họ Cá tra (Pangasiidae), trong bộ Cá da trơn (Siluriformes).",
+    "answer": "Cá hú có tên khoa học là Pangasius conchophilus Roberts & Vidthayanon, 1991.",
+    "doc_id": "NN_0126",
+    "label": "correct"
+  },
+  {
+    "ID": 41,
+    "context": "Dứa có các tên gọi khác như là khóm, thơm, ba la, huyền nương, tên khoa học Ananas comosus, là một loại quả nhiệt đới. Dứa là cây bản địa của Paraguay và miền nam Brasil.",
+    "answer": "Dứa có tên khoa học là crawfish.",
+    "doc_id": "NN_0038",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 42,
+    "context": "Đồng bằng sông Cửu Long, còn được gọi là Tây Nam Bộ hay miền Tây, là vùng cực nam của Việt Nam, một trong hai phần của Nam Bộ.",
+    "answer": "Đồng bằng sông Cửu Long còn được gọi là Tây Nam Bộ hay miền Tây.",
+    "doc_id": "NN_0002",
+    "label": "correct"
+  },
+  {
+    "ID": 43,
+    "context": "Bò đực trưởng thành có khối lượng cơ thể đạt 400–450 kg.",
+    "answer": "Bò đực trưởng thành có khối lượng từ 30-40 kg.",
+    "doc_id": "NN_0054",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 44,
+    "context": "Cây có nguồn gốc từ Trung Mỹ.\n\nCây gỗ lớn, cao từ 10-20 mét thân cong queo, phân cành thấp. Tán lá rộng, lá đơn mọc cách, bóng, phiến tròn, gốc hình tim kích thước 12-15 cm.",
+    "answer": "Nho biển có nguồn gốc từ Đông Nam Á và được du nhập vào Việt Nam từ Thái Lan.",
+    "doc_id": "NN_0111",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 45,
+    "context": "Ổi Thanh Hà gồm những giống ổi Bo xù, ổi Bo trắng và ổi Thái được trồng trên địa bàn thành phố Hải Phòng, Việt Nam.",
+    "answer": "Ổi Thanh Hà gồm những giống ổi Bo xù, ổi Bo trắng và ổi Thái.",
+    "doc_id": "NN_0088",
+    "label": "correct"
+  },
+  {
+    "ID": 46,
+    "context": "Dưa lưới có nguồn gốc từ châu Phi và Ấn Độ. Người Ai Cập được cho là những người đầu tiên trồng giống cây này.",
+    "answer": "Dưa lưới thuộc họ Bầu bí (Cucurbitaceae) và có nguồn gốc từ châu Âu và Trung Quốc.",
+    "doc_id": "NN_0082",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 47,
+    "context": "Cá ba sa, tên khoa học Pangasius bocourti, còn có tên gọi là cá giáo, cá sát bụng, là loại cá da trơn trong họ Pangasiidae có giá trị kinh tế cao, được nuôi tập trung tại nhiều nước trên thế giới.",
+    "answer": "Cá ba sa là loại cái nước mặn.",
+    "doc_id": "NN_0072",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 48,
+    "context": "Giấy dừa là một loại giấy thủ công độc đáo, được làm từ tàu dừa cạn hoặc dừa nước.",
+    "answer": "Giấy dừa được làm từ tàu dừa cạn hoặc dừa nước.",
+    "doc_id": "NN_0109",
+    "label": "correct"
+  },
+  {
+    "ID": 49,
+    "context": "Rươi biển (Tylorrhynchus heterochaetus) là một loài động vật không xương sống trong Họ Rươi, lớp Polychaeta, ngành Giun đốt.",
+    "answer": "Rươi biển thuộc ngành Chân khớp.",
+    "doc_id": "NN_0144",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 50,
+    "context": "Cải bẹ xanh có thân to, nhỏ khác nhau, lá có màu xanh đậm hoặc xanh nõn lá chuối. Lá và thân cây có vị cay, đăng đắng thường dùng phổ biến nhất là nấu canh, hay để muối dưa (dưa cải).",
+    "answer": "Cải bẹ xanh thường được dùng để nấu canh hoặc muối dưa.",
+    "doc_id": "NN_0138",
+    "label": "correct"
+  },
+  {
+    "ID": 51,
+    "context": "Xã U Minh có diện tích 145 km², dân số năm 2024 là 32.991 người, mật độ dân số đạt 227 người/km².\n\nXã U Minh được chia thành 21 ấp, đánh số từ 1 đến 21.",
+    "answer": "Xã U Minh có diện tích 145 km² và dân số năm 2024 là 32.991 người.",
+    "doc_id": "NN_0068",
+    "label": "correct"
+  },
+  {
+    "ID": 52,
+    "context": "Có 8.000 ha ruộng lúa kết hợp nuôi cá.",
+    "answer": "cho đến năm 2021, có 3.200 ha ruộng lúa kết hợp nuôi cá.",
+    "doc_id": "NN_0006",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 53,
+    "context": "Sầu riêng Lá quéo là giống sầu riêng bản địa của Việt Nam, phân bố chủ yếu ở Tiền Giang.",
+    "answer": "Sầu riêng Lá quéo phân bố chủ yếu ở tỉnh Tiền Giang.",
+    "doc_id": "NN_0026",
+    "label": "correct"
+  },
+  {
+    "ID": 54,
+    "context": "Nước mắm là sản phẩm được tạo ra từ cá, muối và quá trình lên men. Ở Việt Nam, cách chế biến truyền thống là trộn cá với muối theo tỷ lệ khoảng 3:1.",
+    "answer": "Nước mắm truyền thống được làm chủ yếu được làm từ cá biển và muối.",
+    "doc_id": "NN_0130",
+    "label": "correct"
+  },
+  {
+    "ID": 55,
+    "context": "tên gọi Hom Mali, Khao Dawk Mali 105 (KDML105) là vật liệu nền quan trọng; tính mẫn cảm quang chu kỳ khiến thời vụ canh tác của KDML105 thường gắn với vụ chính trong hệ thống lúa nước trời (rainfed lowland) ở Đông Bắc Thái Lan.",
+    "answer": "Hom Mali chủ yếu được trồng ở vùng Đông Bắc Thái Lan.",
+    "doc_id": "NN_0007",
+    "label": "correct"
+  },
+  {
+    "ID": 56,
+    "context": "Đồng bằng sông Hồng là khu vực hạ lưu sông Hồng và sông Thái Bình thuộc Bắc Bộ Việt Nam. Đồng bằng sông Hồng sau khi sáp nhập tỉnh, thành Việt Nam 2025 bao gồm 6 tỉnh, thành phố: Hà Nội, Hải Phòng, Bắc Ninh, Quảng Ninh, Hưng Yên và Ninh Bình.\n\nVùng có diện tích tự nhiên là 23.939 km², chiếm 7,22% diện tích Việt Nam; dân số 24.752,2 ngàn người, chiếm 23,4% dân số Việt Nam.",
+    "answer": "Vùng đồng bằng sông Hồng chiếm 23,4% dân số Việt Nam.",
+    "doc_id": "NN_0003",
+    "label": "correct"
+  },
+  {
+    "ID": 57,
+    "context": "Cà phê mít hay cà phê Liberia (danh pháp hai phần: Coffea liberica, đồng nghĩa Coffea excelsa) thuộc họ Thiến thảo.",
+    "answer": "Cà phê mít còn được gọi là cà phê Liberia.",
+    "doc_id": "NN_0101",
+    "label": "correct"
+  },
+  {
+    "ID": 58,
+    "context": "Đàn bò thịt của Việt Nam trong những năm năm qua đã giảm khoảng 1,5 triệu con, từ 6,7 triệu con trong năm 2007 xuống còn 5,2 triệu con vào năm 2012.",
+    "answer": "Đàn bò thịt của Việt Nam giảm khoảng 3,8 triệu con.",
+    "doc_id": "NN_0053",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 59,
+    "context": "Anh túc hay còn gọi là a phiến, á phiện, thuốc phiện, thẩu, trẩu (người Tày gọi là cây nàng tiên), là loài thực vật có tên khoa học là Papaver somniferum L.",
+    "answer": "Anh túc có tên khoa học là morphin. ",
+    "doc_id": "NN_0022",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 60,
+    "context": "Lá giang là loài bản địa của Campuchia, Lào, Thái Lan, Việt Nam. Ở Việt Nam nó mọc hoang ở ven rừng vùng núi trong các quần hệ thứ sinh, đồi cây bụi các tỉnh miền Trung và vùng đồng bằng sông Cửu Long. Thường được thu hái làm rau, nấu canh chua.\n\nNgười ta có thể dùng lá giang để nấu canh hoặc xào với thịt gà, cá nước ngọt, thịt bò.",
+    "answer": "Lá giang thường được dùng để làm đồ trang trí.",
+    "doc_id": "NN_0136",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 61,
+    "context": "Cây Sake có phiên âm đúng tiếng Việt là xa kê, gốc tiếng Thái สาเก (danh pháp hai phần: Artocarpus altilis) là một loài cây gỗ có hoa trong họ Dâu tằm (Moraceae), bản địa của bán đảo Mã Lai và các đảo miền tây Thái Bình Dương.",
+    "answer": "Cây sake thuộc họ Dâu tằm (Moraceae)",
+    "doc_id": "NN_0104",
+    "label": "correct"
+  },
+  {
+    "ID": 62,
+    "context": "Thịt quả của Mon Thong ngọt, giòn, thơm và mùi không hăng quá mức.\n\nTrong ba giống Xà Ni, Kan Yao và Mon Thong thì Mon Thong là giống được nông dân chuộng trồng hơn, sau đó là đến giống Xà Ni. Do Mon Thong có nhiều lợi ích, quả thơm bùi, hạt nhỏ và bảo quản được lâu hơn. Ngoài ra, thời gian thu hoạch có thể kéo dài.",
+    "answer": "Mon Thong có thịt quả dày, vị ngọt nhẹ, thơm, hạt nhỏ và mùi không quá nồng.",
+    "doc_id": "NN_0024",
+    "label": "correct"
+  },
+  {
+    "ID": 63,
+    "context": "Dừa sáp (còn gọi là dừa đặc ruột, dừa kem, makapuno (Philippines)) là một phân loài dừa có quả đặc ruột, cơm dừa dày, mềm dẻo và béo hơn trái dừa thường, nước dừa đặc lại trong veo như sương sa.",
+    "answer": "Dừa sáp có cơm dừa dày, mềm dẻo, béo và nước dừa đặc sệt hơn dừa thường.",
+    "doc_id": "NN_0133",
+    "label": "correct"
+  },
+  {
+    "ID": 64,
+    "context": "Cà phê (bắt nguồn từ tiếng Pháp: café [/kafe/]) là một loại thức uống được ủ từ hạt cà phê rang, lấy từ quả của cây cà phê. Các giống cây cà phê được bắt nguồn từ vùng nhiệt đới châu Phi và các vùng Madagascar, Comoros, Mauritius và Réunion trên các khu vực thuộc đường xích đạo.",
+    "answer": "Cà phê bắt nguồn từ vùng ôn đới bắc Mỹ.",
+    "doc_id": "NN_0013",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 65,
+    "context": "Gà rừng Việt Nam (danh pháp: Gallus gallus jabouillei) là một phân loài của loài gà rừng lông đỏ Gallus gallus).",
+    "answer": "Gà rừng Việt Nam có danh pháp khoa học là Hoshu.",
+    "doc_id": "NN_0081",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 66,
+    "context": "Hồ Quang Cua (sinh năm 1953) là một kỹ sư nông nghiệp người Việt Nam. Ông là tác giả của nhiều giống lúa lai tạo chất lượng cao, trong đó có hai giống lúa gạo được đánh giá là ngon nhất thế giới (ST24 và ST25).",
+    "answer": "Hồ Quang Cua là tác giả của nhiều giống lúa lai tạo chất lượng cao, trong đó nổi bật có hai giống lúa ST24 và ST25.",
+    "doc_id": "NN_0005",
+    "label": "correct"
+  },
+  {
+    "ID": 67,
+    "context": "Măng cụt (danh pháp hai phần: Garcinia mangostana) hay còn được gọi là quả tỏi ngọt, là một loài cây thuộc họ Bứa, bộ Sơ ri. Nó cũng là loại cây nhiệt đới thường xanh cho quả ăn được, có nguồn gốc từ các đảo quốc Đông Nam Á. Nguồn gốc của nó là không chắc chắn do việc trồng trọt thời tiền sử rộng rãi. Nó mọc chủ yếu ở Đông Nam Á, Tây Nam Ấn Độ và các khu vực nhiệt đới khác như Colombia, Puerto Rico và Florida, nơi cây đã được giới thiệu.",
+    "answer": "Măng cụt có nguồn gốc từ khu vực Đông Á và Trung Á.",
+    "doc_id": "NN_0043",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 68,
+    "context": "Vịt Cổ Lũng nuôi khoảng 6 tháng là bắt đầu đẻ.",
+    "answer": "Vịt Cổ Lũng nuôi khoảng 12 tháng là bắt đầu đẻ..",
+    "doc_id": "NN_0143",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 69,
+    "context": "Việt Nam đứng thứ mười về sản lượng sắn (7,71 triệu tấn) trên thế giới. Tại Việt Nam, sắn được canh tác phổ biến ở hầu hết các tỉnh của tám vùng sinh thái. Diện tích sắn trồng nhiều nhất ở Đông Nam Bộ và Tây Nguyên.",
+    "answer": "Việt Nam đứng thứ mười về sản lượng sắn (7,71 triệu tấn) trên thế giới.",
+    "doc_id": "NN_0093",
+    "label": "correct"
+  },
+  {
+    "ID": 70,
+    "context": "Trong các kỳ tiếp theo của cuộc thi, ST25 giành giải Nhất năm 2023 và đồng giải Nhất năm 2025, đồng thời đạt giải Nhì ở các năm 2020 và 2024.",
+    "answer": "ST25 giành giải Nhất World's Best Rice năm 2019 và 2023, đồng giải Nhất năm 2025; đồng thời đạt giải Nhì vào các năm 2020 và 2024.",
+    "doc_id": "NN_0004",
+    "label": "correct"
+  },
+  {
+    "ID": 71,
+    "context": "Giá cam vào khoảng 12-20 nghìn đồng cho 1 kg vào những năm 2012-2015.",
+    "answer": "Giá cam vào khoảng 12-20 nghìn đồng cho 3 kg vào những năm 2012-2015.",
+    "doc_id": "NN_0131",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 72,
+    "context": "Dừa dứa có màu vỏ quả xanh giống dừa xiêm nhưng nước và cơm dừa có mùi thơm đặc trưng của dứa, đặc biệt thơm hơn vào mùa nắng.",
+    "answer": "Dừa dứa có màu vỏ quả xanh giống dừa xiêm nhưng nước và cơm dừa có mùi thơm đặc trưng của dứa",
+    "doc_id": "NN_0040",
+    "label": "correct"
+  },
+  {
+    "ID": 73,
+    "context": "Thị trấn Nông trường Mộc Châu có diện tích 108,39 km².",
+    "answer": "Thị trấn Nông trường Mộc Châu có diện tích 43,4 km².",
+    "doc_id": "NN_0049",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 74,
+    "context": "Bến Tre là tỉnh có diện tích trồng nhiều bưởi da xanh nhất đồng bằng sông Cửu Long. Tại Bến Tre, diện tích trồng bưởi da xanh khoảng 9.000 ha, khoảng 30% diện tích trồng bưởi miền Tây Nam Bộ, sản lượng quả hằng năm khoảng 200.000 tấn.",
+    "answer": "Sản lượng bưởi da xanh hằng năm khoảng 200.000 tấn.",
+    "doc_id": "NN_0033",
+    "label": "correct"
+  },
+  {
+    "ID": 75,
+    "context": "Quất, hay còn gọi là tắc hoặc hạnh, danh pháp hai phần: Citrus × microcarpa, còn được gọi là calamondin, calamansi, hoặc chanh vàng Philippine, là một giống cây lai thuộc chi Cam chanh quan trọng về mặt kinh tế được trồng chủ yếu ở Philippines. Nó có nguồn gốc từ Philippines, Borneo, Sumatra và Sulawesi (Indonesia, Malaysia và Brunei) ở Đông Nam Á.",
+    "answer": "Quất có nguồn gốc từ Nhật Bản",
+    "doc_id": "NN_0112",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 76,
+    "context": "Cà cuống có một bộ máy tiêu hóa dài khoảng 4–5 cm, gồm có một ống đầu trên nhỏ là cuống họng, đầu dưới phình to chứa một thứ nước có mùi hôi.",
+    "answer": "Cà cuống có một bộ máy tiêu hóa dài khoảng 5-6 cm.",
+    "doc_id": "NN_0124",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 77,
+    "context": "Việt Nam công nhận là một giống vật nuôi được phép sản xuất, kinh doanh tại Việt Nam, giá ngựa bạch giống bình thường từ 16 đến 20 triệu đồng một con.",
+    "answer": "giá ngựa bạch giống bình thường từ 16 đến 20 triệu đồng một con.",
+    "doc_id": "NN_0113",
+    "label": "correct"
+  },
+  {
+    "ID": 78,
+    "context": "Nghêu Bến Tre (danh pháp hai phần: Meretrix lyrata), tên thương mại White Hard Clam, là loài nghêu phân bố ở vùng duyên hải Việt Nam, Đài Loan, Philippines và Hoa Nam.",
+    "answer": "Nghêu Bến Tre có danh pháp hai phần là Meretrix lyrata.",
+    "doc_id": "NN_0075",
+    "label": "correct"
+  },
+  {
+    "ID": 79,
+    "context": "giống bò vàng phương Nam có tầm vóc nhỏ, chúng là giống bò có khả năng thích nghi cao, chống chịu được bệnh tật và thường được dùng để phục vụ cho việc lấy sức kéo, chuyên chở là chính.",
+    "answer": "Đây là giống bò có tầm vóc nhỏ, khả năng thích nghi cao, chịu đựng kham khổ tốt, chống chịu bệnh tật và thường được sử dụng chủ yếu để cày kéo, chuyên chở.",
+    "doc_id": "NN_0051",
+    "label": "correct"
+  },
+  {
+    "ID": 80,
+    "context": "uả sấu được dùng để nấu canh chua, ngâm nước uống. Quả chín được dùng làm ô mai sấu, làm sấu dầm, tương giấm v.v",
+    "answer": "quả sấu được dùng để làm thức ăn cho gia súc.",
+    "doc_id": "NN_0032",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 81,
+    "context": "Rễ còn có tác dụng lợi tiểu, thông huyết, kích thích tử cung co bóp. Khi dùng làm thuốc thường chọn những cây sống 2 năm trở lên.",
+    "answer": "Khi dùng làm thuốc thường chọn những cây rau ngót sống 10 năm trở lên.",
+    "doc_id": "NN_0099",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 82,
+    "context": "Khi tôm đẻ xong, trứng được giữ ở chân bơi dưới bụng, nở thành ấu trùng sau 10 - 15 ngày, sau đó ấu trùng rời mẹ, sống độc lập và phát triển qua các lần lột xác.",
+    "answer": "Trứng tôm càng sông nở thành ấu trùng sau 5-30 ngày.",
+    "doc_id": "NN_0066",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 83,
+    "context": "Lợn Lang Hồng (ký hiệu LH) là giống lợn nuôi nội địa của Việt Nam có nguồn gốc ở địa phương Bắc Ninh. Lợn Lang Hồng được phân bố chủ yếu ở các tỉnh Bắc Ninh, Bắc Giang và được nuôi nhiều ở vùng đồng bằng và thung lũng hạ lưu các sông Cầu, sông Thương, sông Lục Nam.",
+    "answer": "Lợn Lang Hồng có nguồn gốc chủ yếu ở Bắc Ninh và Bắc Giang, thuộc khu vực miền Bắc Việt Nam.",
+    "doc_id": "NN_0115",
+    "label": "correct"
+  },
+  {
+    "ID": 84,
+    "context": "Bò Hà Lan thuần chủng chỉ chiếm 5-6% tồng đàn, nuôi tập trung ở hai cơ sở giống tại cao nguyên Mộc Châu và Lâm Đồng.",
+    "answer": "Bò Hà Lan thuần chủng chỉ chiếm 5-6% tồng đàn.",
+    "doc_id": "NN_0048",
+    "label": "correct"
+  },
+  {
+    "ID": 85,
+    "context": "Hồng xiêm (danh pháp hai phần: Manilkara zapota), hay người miền Nam gọi là lồng mứt, xa pô chê, saboche, sapoche (gọi tắt là sabo, sapo, xa pô) (từ tiếng Pháp sapotier).",
+    "answer": "Ở miền Nam Việt Nam, hồng xiêm còn được gọi là quả na",
+    "doc_id": "NN_0108",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 86,
+    "context": "Dâu tây (danh pháp khoa học: Fragaria × ananassa) là một chi thực vật hạt kín và là loài thực vật có hoa thuộc họ Hoa hồng (Rosaceae). Dâu tây xuất xứ từ châu Mỹ và được các nhà làm vườn châu Âu cho lai tạo vào thế kỷ 18 để tạo nên giống dâu tây được trồng rộng rãi hiện nay.",
+    "answer": "Dâu tây có xuất xứ từ châu Nam Cực.",
+    "doc_id": "NN_0135",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 87,
+    "context": "Phương pháp nuôi đầu tiên, là một cái lồng nổi, trong đó một khung có diện tích khoảng 10 đến 20 mét vuông được hỗ trợ bởi phao và giữ các lồng tôm hùm, và thường được neo trong vùng nước sâu 10-20m. Phương pháp lồng như vậy xảy ra phổ biến nhất trên vịnh Nha Trang.",
+    "answer": "Lồng nổi thường được neo ở vùng nước có độ sâu khoảng 100–200 m.",
+    "doc_id": "NN_0077",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 88,
+    "context": "Mía là tên gọi chung của một số loài trong chi Mía (Saccharum), bên cạnh các loài lau, lách.",
+    "answer": "Tên chi khoa học của cây mía là Saccharum.",
+    "doc_id": "NN_0018",
+    "label": "correct"
+  },
+  {
+    "ID": 89,
+    "context": "Tỉnh Hậu Giang có 3.500 ha tràm, trong đó có 1.000 ha tràm của hộ nông dân.\n\nNăm 2014, nông dân trồng tràm có thể đạt doanh thu sau khi trừ chi phí là 80 đến 120 triệu VND/ha vườn tràm.",
+    "answer": "Tỉnh Hậu Giang có 3.500 ha tràm.",
+    "doc_id": "NN_0080",
+    "label": "correct"
+  },
+  {
+    "ID": 90,
+    "question": "Doanh số bán nhân sâm trên toàn cầu đã vượt quá bao nhiêu tỷ đô la?",
+    "context": "Nhân sâm thương mại được bán ở hơn 35 quốc gia, trong đó, Trung Quốc là nước tiêu thụ lớn nhất. Năm 2013, doanh số bán nhân sâm trên toàn cầu đã vượt quá 2 tỷ đô la, trong đó một nửa là do Hàn Quốc sản xuất.",
+    "answer": "Doanh số bán nhân sâm trên toàn cầu đã vượt quá 2 tỷ đô la.",
+    "doc_id": "NN_0023",
+    "label": "correct"
+  },
+  {
+    "ID": 91,
+    "context": "Dấu hiệu khảo cổ cho thấy lợn (heo) được thuần hóa từ loài hoang dã từ rất sớm vào khoảng 13.000–12.700 TCN ở Cận Đông trong thung lũng Tigris được quản lý ở dạng hoang dã theo cách tương tự chúng được người New Guine chăn hiện nay.",
+    "answer": "Lợn rừng đã quần hợp với con người cách đây 13.000–12.700 năm.",
+    "doc_id": "NN_0046",
+    "label": "correct"
+  },
+  {
+    "ID": 92,
+    "context": "Lợn rừng lai hay Heo rừng lai (Sus scrofa x Sus scrofa domesticus) là một giống lai giữa một con lợn rừng và lợn nhà. Thông thường, lợn rừng lai là con lai giữa lợn rừng đực với lợn nái là lợn địa phương, chẳng hạn như ở một số nơi thuộc Việt Nam.",
+    "answer": "Lợn rừng lai là giống lai giữa lợn nhà và lợn nhà.",
+    "doc_id": "NN_0121",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 93,
+    "context": "Gà tre (chính xác là \"gà che\" theo tiếng Khmer là មាន់ចែ \"moan-chae\") là một giống gà bản địa đã từng khá phổ biến tại khu vực miền Nam Việt Nam, đặc biệt là Tây Nam Bộ.",
+    "answer": "Gà tre là giống gà bản địa từng khá phổ biến tại khu vực miền Nam Việt Nam, đặc biệt là Tây Nam Bộ.",
+    "doc_id": "NN_0123",
+    "label": "correct"
+  },
+  {
+    "ID": 94,
+    "context": "Lợn ỉ là một giống lợn địa phương ở miền Bắc Việt Nam, nay ít được nuôi vì hiệu quả kinh tế không cao, và hiện có nguy cơ bị tuyệt chủng.",
+    "answer": "Lợn ỉ là một giống lợn địa phương ở miền Nam Việt Nam.",
+    "doc_id": "NN_0114",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 95,
+    "context": "Các giống lợn được nuôi ở Việt Nam bao gồm giống lợn bản địa, giống lợn nhập nội và các giống lai.\n\nHiện chưa xác minh được lợn ở các địa phương của Việt Nam thuộc một giống hay nhiều giống.",
+    "answer": "Các giống lợn được nuôi ở Việt Nam gồm giống lợn Âu Mỹ, giống lợn rừng.",
+    "doc_id": "NN_0045",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 96,
+    "context": "Thường thì cà phê 25 tuổi đã được coi là già, không thu hoạch được nữa. Thực tế nó vẫn có thể tiếp tục sống thêm khoảng 70 năm. Cây cà phê arabica ưa thích nhiệt độ từ 16-25°C, lượng mưa khoảng trên 1000 mm.",
+    "answer": "Cây cà phê arabica ưa thích nhiệt độ từ 6,4-62,5 °C.",
+    "doc_id": "NN_0014",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 97,
+    "context": "Cà phê chồn hay cà phê phân chồn là tên một loại cà phê đặc biệt, một thứ đồ uống được xếp vào loại hiếm nhất trên thế giới.",
+    "answer": "Cà phê chồn còn được gọi là cà phê arabica.",
+    "doc_id": "NN_0015",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 98,
+    "context": "Vú sữa Lò Rèn Vĩnh Kim là thương phẩm trái cây đặc sản của tỉnh Đồng Tháp (tỉnh Tiền Giang trước đây), đã được cấp bảo hộ chỉ dẫn địa lý, là một trong hai chỉ dẫn địa lý của tỉnh, cùng với xoài cát Hòa Lộc.",
+    "answer": "Vú sữa Lò Rèn Vĩnh Kim là thương phẩm trái cây đặc sản của tỉnh Đồng Tháp.",
+    "doc_id": "NN_0035",
+    "label": "correct"
+  },
+  {
+    "ID": 99,
+    "context": "Tại Việt Nam có Lợn rừng Việt Nam hay heo rừng Việt Nam là một giống lợn rừng phân bố tại Việt Nam, chúng thuộc nhóm lợn rừng Trung Quốc.",
+    "answer": "Lợn rừng Việt Nam thuộc nhóm lợn rừng Bắc Mỹ.",
+    "doc_id": "NN_0047",
+    "label": "hallucinated"
+  },
+  {
+    "ID": 100,
+    "context": "Lợn hung hay còn gọi là lợn hung Sìn Hồ là một giống lợn nuôi bản địa của Việt Nam được nuôi giữ tại một số khu vực của miền núi phía Bắc, lợn hung Sìn Hồ tập trung chủ yếu ở các xã vùng cao.",
+    "answer": "Lợn hung Sìn Hồ là giống lợn nuôi bản địa của Việt Nam",
+    "doc_id": "NN_0062",
+    "label": "correct"
+  }
+]
